@@ -19,9 +19,8 @@ The project is built using modern web development technologies.
 * **Frontend:** React / JavaScript
 * **Styling:** CSS / Tailwind CSS
 * **Backend:** Node.js / Express.js
-* **Database:** [Add database used by the project]
-* **Authentication:** [Add authentication method if applicable]
-* **Deployment:** [Add deployment platform]
+* **Database:** MongoDB
+* **Authentication:** OAuth
 
 > Update the technologies above according to the actual implementation of the repository.
 
